@@ -1,28 +1,4 @@
 {
-  "_from": "cordova-plugin-native-share",
-  "_id": "cordova-plugin-native-share@5.6.5",
-  "_inBundle": false,
-  "_integrity": "sha512-2lKLybhNeauz0gXPkZb9UlJwKJGDhZbxtU91dtrDENxxyDfJF7zMTbrgekhxFSBlgg96JCuCOopoo/rXy+7QhQ==",
-  "_location": "/cordova-plugin-native-share",
-  "_phantomChildren": {},
-  "_requested": {
-    "type": "tag",
-    "registry": true,
-    "raw": "cordova-plugin-native-share",
-    "name": "cordova-plugin-native-share",
-    "escapedName": "cordova-plugin-native-share",
-    "rawSpec": "",
-    "saveSpec": null,
-    "fetchSpec": "latest"
-  },
-  "_requiredBy": [
-    "#USER",
-    "/"
-  ],
-  "_resolved": "https://registry.npmjs.org/cordova-plugin-native-share/-/cordova-plugin-native-share-5.6.5.tgz",
-  "_shasum": "8a8599231d1decd1ae263d6787a45280e6945094",
-  "_spec": "cordova-plugin-native-share",
-  "_where": "/Users/Lo2ay/Documents/Ananas/Tripkens/TripkensFramework7/cordova",
   "author": {
     "name": "Loaay Alkherbawy"
   },
@@ -40,7 +16,6 @@
       "web"
     ]
   },
-  "deprecated": false,
   "description": "Share text, images (and other files), or a link via the native sharing widget of your device. Android is fully supported, as well as iOS 6 and up. WP8 has somewhat limited support.",
   "engines": [
     {
